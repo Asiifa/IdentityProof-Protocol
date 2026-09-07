@@ -1,0 +1,38 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Node
+node_modules/
+
+# Hardhat generated files
+artifacts/
+cache/
+
+# Generated pipeline results
+lens_results.json
+ranked_candidates.json
+discovered_record.json
+tampered_record.json
+
+# Local test images
+face.jpeg
+men.jpg
+influ.png
+random_inf.jpg
+testt_image.png
+test_image.png
+facee.jpg
+face_search_crop.jpg
+social_test.jpg
+
+# Local IDE files
+.vscode/
